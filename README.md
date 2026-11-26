@@ -1,2 +1,25 @@
-# Diabetic-Retinopathy-Detection
-AI-based Diabetic Retinopathy Detection using Deep Learning and CNN to analyze retinal images and predict disease severity.
+# Diabetic Retinopathy Detection
+
+An AI-based web application that predicts diabetic retinopathy severity from retinal images using Deep Learning.
+
+## Features
+- Upload retinal images
+- AI-based prediction
+- Prediction confidence
+- Streamlit web interface
+
+## Technologies Used
+- Python
+- TensorFlow
+- EfficientNetB0
+- Streamlit
+- NumPy
+- Pillow
+
+## Project Structure
+- app.py - Web application
+- src/ - Data preparation and model training scripts
+- requirements.txt - Python dependencies
+
+## Disclaimer
+This project is for educational purposes only and is not a medical diagnosis tool.
