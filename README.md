@@ -20,6 +20,7 @@ An AI-based web application that predicts diabetic retinopathy severity from ret
 - app.py - Web application
 - src/ - Data preparation and model training scripts
 - requirements.txt - Python dependencies
-
+GitHub: https://github.com/vikascode-ui
 ## Disclaimer
 This project is for educational purposes only and is not a medical diagnosis tool.
+ git
