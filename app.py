@@ -7,7 +7,7 @@ from pathlib import Path
 
 # Project paths
 BASE_DIR = Path(__file__).resolve().parent
-MODEL_PATH = BASE_DIR / "models" / "best_model.keras"
+MODEL_PATH = BASE_DIR / "best_model.keras"
 
 st.set_page_config(
     page_title="Diabetic Retinopathy Detection",
